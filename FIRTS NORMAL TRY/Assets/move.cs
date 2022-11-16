@@ -1,5 +1,5 @@
 using UnityEngine;
-
+//Я добавил изменение
 public class move : MonoBehaviour
 {
     public float speed = 2f;
