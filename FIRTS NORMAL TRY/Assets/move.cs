@@ -12,6 +12,7 @@ public class move : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
     }
+    //комментарий
     void Update()
     {
         float movement = Input.GetAxis("Horizontal");
